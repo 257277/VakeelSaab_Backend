@@ -1,0 +1,11 @@
+{
+    "watch": [
+        "index.js",
+        "routes",
+        "ws",
+        "utils"
+    ],
+    "ignore": [
+        "data/**/*"
+    ]
+}

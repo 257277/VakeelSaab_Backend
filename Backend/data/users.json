@@ -1,0 +1,29 @@
+{
+  "a": {
+    "passwordHash": "$2b$10$HbCcV127Uf9kliFC2FJldOPsXqsuJ/3xksnVN10ix7PXz2CP.OR6K",
+    "role": "CLIENT"
+  },
+  "l": {
+    "passwordHash": "$2b$10$izCeTpgq3p66eryxHC/t6O6GN7TOYlAakLRdUOtXrt7SgHYixVvUK",
+    "role": "LAWYER",
+    "status": "OFFLINE"
+  },
+  "l1": {
+    "passwordHash": "$2b$10$fBYo3JKv/glekhiesTuHlul8y62NXtqdILUKZUIiRUPjDrnfETuaq",
+    "role": "LAWYER",
+    "status": "OFFLINE"
+  },
+  "b": {
+    "passwordHash": "$2b$10$iiySVYWvEil04vOhSv.qTeQiM56cM08v2QfSkexgPdsDBsNA7uUvO",
+    "role": "CLIENT"
+  },
+  "c": {
+    "passwordHash": "$2b$10$PqzjiJInIN/kxyMhoIzMEOHdpWQM/aRphiH0Ktz.w3TYBtHnEQ17e",
+    "role": "CLIENT"
+  },
+  "l2": {
+    "passwordHash": "$2b$10$UHr.dZYEsOsuHSn5H/omAeZpQ0Ey3MZd6PxACbz4vlvjrFQel3loa",
+    "role": "LAWYER",
+    "status": "OFFLINE"
+  }
+}

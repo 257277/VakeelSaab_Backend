@@ -1,0 +1,11 @@
+node_modules/
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+.vscode/
+.idea/
+.DS_Store
+
